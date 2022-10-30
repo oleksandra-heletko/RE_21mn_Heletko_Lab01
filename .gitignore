@@ -22,8 +22,7 @@ mono_crash.*
 [Ww][Ii][Nn]32/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
-bld/
-[Bb]in/ 
+bld/ 
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
